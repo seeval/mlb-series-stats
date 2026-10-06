@@ -1,4 +1,4 @@
-# MLB ELT Pipeline
+# MLB Series Stats Pipeline
 
 ELT pipeline ingesting MLB game data into BigQuery with dbt transformations and a Looker/Data Studio dashboard. Built to demonstrate data engineering fundamentals including idempotent incremental loads, dimensional modeling, and automated orchestration.
 
